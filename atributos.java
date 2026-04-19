@@ -1,1 +1,0 @@
-// aqui retorna a conta dos atributos
